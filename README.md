@@ -41,7 +41,7 @@ Spring Boot
 <img width="80%" src="https://user-images.githubusercontent.com/55842092/215458165-cabd0366-bd54-4137-a8f4-021156c1f34d.png">
 
 * 최종 검색 결과 화면 
-<img width="80%" src="https://user-images.githubusercontent.com/55842092/215458165-cabd0366-bd54-4137-a8f4-021156c1f34d.png">
+<img width="80%" src="https://user-images.githubusercontent.com/55842092/215461327-d7942599-c7c6-403c-84d3-d58705b88f36.png">
 
 * 편의점 상세 화면 
 <img width="80%" src="https://user-images.githubusercontent.com/55842092/215458401-34f0e536-921e-4bbf-8d4b-9a1299c865b2.png">
